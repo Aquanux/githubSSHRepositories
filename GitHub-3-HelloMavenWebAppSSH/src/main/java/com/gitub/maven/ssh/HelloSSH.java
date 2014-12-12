@@ -6,6 +6,8 @@ public class HelloSSH {
 		
 		System.out.println("Hello Maven on GitHub SSH Key with a Dynamic Web App !!");
 		
+		System.out.println("PUSH !!");
+		
 	}
 
 }
