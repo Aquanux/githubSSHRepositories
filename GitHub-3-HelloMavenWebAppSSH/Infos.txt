@@ -1,0 +1,9 @@
+
+
+
+Dynamic Web Project contenant Une Simple classe Java 
+
+ayant une méthode "MAIN" exécutée à l'aide de Maven
+
+
+Le PUSH de ce projet se fait en utilisant une clé SSH
